@@ -33,8 +33,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Web site URL](https://anisbeny.github.io/challenge-frontend-mentor_QR-code-component/)
+- Live Site URL: [Repo Git URL](https://github.com/anisbeny/challenge-frontend-mentor_QR-code-component.git)
 
 ## My process
 
@@ -91,7 +91,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@anisbeny]([background-color: hsl(220, 15%, 55%);](https://www.frontendmentor.io/profile/anisbeny))
+- Frontend Mentor - [@anisbeny]((https://www.frontendmentor.io/profile/anisbeny))
 - Twitter - [@anisbenyoussef6](https://twitter.com/anisbenyoussef6)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
